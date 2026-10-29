@@ -2,7 +2,11 @@
 
 I built this app to help people see how their resume may perform in an Applicant Tracking System (ATS) and how closely it matches a job description. It has a Streamlit interface, a FastAPI backend, NLP models, and Groq-powered resume parsing.
 
-> **Note:** This project is set up for local development. You’ll need your own Supabase and Groq credentials to use resume analysis and account features. Use sample or redacted resumes when trying it out.
+> **Note:** This project is set up for local development. You’ll need your own Supabase and Groq credentials to use resume analysis and account features. Use sample or redacted resumes when trying it out.## Screenshots
+
+![ATS Resume Scorer screenshot](Screenshot%202026-10-29%20190824.png)
+
+![ATS Resume Scorer screenshot](Screenshot%202026-10-29%20190843.png)
 
 ## Features
 
