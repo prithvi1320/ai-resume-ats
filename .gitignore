@@ -1,0 +1,29 @@
+.DS_Store
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+frontend/.streamlit/secrets.toml
+
+# Local model/cache files
+.cache/
+cache/
+
+# Datasets
+*.csv
+
+# Logs
+*.log
+
+# ML models
+*.safetensors
+*.pkl
